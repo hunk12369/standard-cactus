@@ -1,0 +1,34 @@
+.info {
+    width: 530px;
+    margin: 0px;
+    background-color: #FFFFFF;
+}
+.info img {
+    width: 530px;
+    height: 305px;
+
+}
+.info button{
+    width: 454.42px;
+    height: 62.4px;
+    padding: 14.200530052185059px 15.383907318115234px 14.200530052185059px 15.383907318115234px;
+    border-radius: 14.200530052185059px;
+    border: 1.1833775043487549px;
+    gap: 16.567285537719727px;
+    background: #ECBAC4;
+
+    font-family: SF Pro Display;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+    margin-left: 30px;
+}
+.info button img{
+    width: 33.13457107543945px;
+    height: 33.13457107543945px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

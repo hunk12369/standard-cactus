@@ -1,0 +1,46 @@
+.description {
+    box-shadow: 28.401060104370117px 56.802120208740234px 75.73616027832031px 0px #0000001F;
+    background-color: #FFFFFF;
+    width: 493px;
+    margin: 0px;
+    margin-top: -10px;
+    padding-left: 37px;
+}
+.name{
+    font-family: SF Pro Display;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #111111;
+    margin-top: 0px;
+    padding-top: 30px;
+}
+.description p{
+    font-family: SF Pro Display;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #696969;
+    margin: 0px;
+}
+.price {
+    font-family: SF Pro Display;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #111111;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.name-price{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}

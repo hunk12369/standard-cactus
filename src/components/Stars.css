@@ -1,0 +1,23 @@
+.stars {
+    background-color: #FFFFFF;
+    padding-left: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+}
+.stars img{
+    width: 44.968345642089844px;
+    height: 44.968345642089844px;
+    padding: 3.747363567352295px 3.7473628520965576px 5.583569049835205px 3.7473576068878174px;
+
+}
+.stars p{
+    font-family: SF Pro Display;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #696969;
+}
